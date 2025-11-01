@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / test / temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+.vscode/
+
+# Virtual Environments
+venv/
+env/
+
+# Database
+db.sqlite3
+
+# Media and Static files (can be uncommented if you upload them to S3/CDN)
+/media
+/static
+
+# Windows environment files
+Thumbs.db
