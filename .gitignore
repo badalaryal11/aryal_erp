@@ -18,4 +18,4 @@ db.sqlite3
 /static
 
 # Windows environment files
-Thumbs.db
+Thumbs.dbgit add .gitignore
